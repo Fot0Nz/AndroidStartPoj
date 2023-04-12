@@ -146,87 +146,80 @@
     <!--        app:layout_constraintStart_toEndOf="@+id/button"-->
     <!--        tools:layout_editor_absoluteY="370dp" />-->
 
-    <TextView
-        android:id="@+id/view_hide5"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_goneMarginLeft="50dp"
-        android:text="view_hide2"
-        app:layout_constraintEnd_toStartOf="@+id/guideline3"
-        app:layout_constraintStart_toStartOf="@+id/guideline"
-        tools:layout_editor_absoluteY="201dp" />
+<!--    <TextView-->
+<!--        android:id="@+id/view_hide5"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_goneMarginLeft="50dp"  />-->
 
-    <TextView
-        android:id="@+id/view_hide1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="view_hide1"
-        android:visibility="gone"
-        app:layout_constraintLeft_toRLeftOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+<!--    <TextView-->
+<!--        android:id="@+id/view_hide1"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="view_hide1"-->
+<!--        android:visibility="gone"-->
+<!--        app:layout_constraintLeft_toRLeftOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent" />-->
 
-    <TextView
-        android:id="@+id/view_hide2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_goneMarginLeft="50dp"
-        android:text="view_hide2"
-        app:layout_constraintEnd_toStartOf="@+id/guideline4"
-        app:layout_constraintStart_toStartOf="@+id/guideline"
-        tools:layout_editor_absoluteY="36dp" />
+<!--    <TextView-->
+<!--        android:id="@+id/view_hide2"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_goneMarginLeft="50dp"-->
+<!--        android:text="view_hide2"-->
+<!--        tools:layout_editor_absoluteX="59dp"-->
+<!--        tools:layout_editor_absoluteY="36dp" />-->
 
-    <TextView
-        android:id="@+id/view_hide"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_goneMarginLeft="50dp"
-        android:text="view_hide2"
-        app:layout_constraintEnd_toStartOf="@+id/guideline3"
-        app:layout_constraintStart_toStartOf="@+id/guideline"
-        tools:layout_editor_absoluteY="64dp" />
+<!--    <TextView-->
+<!--        android:id="@+id/view_hide"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_goneMarginLeft="50dp"-->
+<!--        android:text="view_hide2"-->
+<!--        app:layout_constraintEnd_toStartOf="@+id/guideline3"-->
+<!--        app:layout_constraintStart_toStartOf="@+id/guideline"-->
+<!--        tools:layout_editor_absoluteY="64dp" />-->
 
-    <TextView
-        android:id="@+id/view_hide3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_goneMarginLeft="50dp"
-        android:layout_marginStart="12dp"
-        android:text="view_hide2"
-        app:layout_constraintEnd_toStartOf="@+id/guideline4"
-        app:layout_constraintStart_toStartOf="@+id/guideline"
-        tools:layout_editor_absoluteY="94dp" />
+<!--    <TextView-->
+<!--        android:id="@+id/view_hide3"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_goneMarginLeft="50dp"-->
+<!--        android:text="view_hide2"-->
+<!--        tools:layout_editor_absoluteX="236dp"-->
+<!--        tools:layout_editor_absoluteY="94dp" />-->
 
-    <TextView
-        android:id="@+id/view_hide4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_goneMarginLeft="50dp"
-        android:text="view_hide2"
-        app:layout_constraintEnd_toStartOf="@+id/guideline4"
-        app:layout_constraintStart_toStartOf="@+id/guideline3"
-        tools:layout_editor_absoluteY="251dp" />
+<!--    <TextView-->
+<!--        android:id="@+id/view_hide4"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_goneMarginLeft="50dp"-->
+<!--        android:text="view_hide2"-->
+<!--        app:layout_constraintEnd_toStartOf="@+id/guideline4"-->
+<!--        app:layout_constraintStart_toStartOf="@+id/guideline3"-->
+<!--        tools:layout_editor_absoluteY="251dp" />-->
 
-    <androidx.constraintlayout.widget.Guideline
-        android:id="@+id/guideline"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="vertical"
-        app:layout_constraintGuide_begin="56dp" />
+<!--    <androidx.constraintlayout.widget.Guideline-->
+<!--        android:id="@+id/guideline"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:orientation="vertical"-->
+<!--        app:layout_constraintGuide_begin="59dp" />-->
 
-    <androidx.constraintlayout.widget.Guideline
-        android:id="@+id/guideline3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="vertical"
-        app:layout_constraintGuide_begin="196dp" />
+<!--    <androidx.constraintlayout.widget.Guideline-->
+<!--        android:id="@+id/guideline3"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:orientation="vertical"-->
+<!--        app:layout_constraintGuide_begin="205dp" />-->
 
-    <androidx.constraintlayout.widget.Guideline
-        android:id="@+id/guideline4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="vertical"
-        app:layout_constraintGuide_begin="305dp" />
+<!--    <androidx.constraintlayout.widget.Guideline-->
+<!--        android:id="@+id/guideline4"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:orientation="vertical"-->
+<!--        app:layout_constraintGuide_begin="305dp" />-->
 
 
     <!--  appp:layout_constraint(x)_to(y)of="z"
